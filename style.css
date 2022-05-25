@@ -1,0 +1,30 @@
+.ima {
+    margin-left: 60px;
+}
+.esp{
+    margin-right: 60px;
+}
+.but{
+    margin-left: 15px;
+    margin-right: 25px;
+}
+.layer{
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: rgba(255, 255, 255, 0);
+}
+.layer1{
+    
+    margin-left: 220px;
+    margin-top: 85px;
+    height: 300px;
+    width: 600px;
+}
+.layfi{
+    background-color: rgba(240, 248, 255, 0);
+    margin-top: 150px;
+    margin-left: 200px;
+}
+.cont{
+    background-color: white;
+}
