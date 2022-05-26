@@ -26,6 +26,9 @@ nav ul{
 .logs{
     margin-right: 10px;
 }
+.link :hover{
+    background: linear-gradient( 90deg, #3600f8 0%, #c7249e 100%); 
+}
 .ejemplo1 { 
     background: linear-gradient( 90deg, #3600f8 0%, #c7249e 100%); 
     text-decoration:none;
