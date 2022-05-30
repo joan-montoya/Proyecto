@@ -13,7 +13,7 @@ nav ul{
     margin-right: 5px;
 }
 
-.fond{
+.fondo{
     position: absolute;
     float: right;
     top: 0px;
@@ -27,7 +27,7 @@ nav ul{
 .link :hover{
     background: linear-gradient( 90deg, #3600f8 0%, #c7249e 100%); 
 }
-.ejemplo1 { 
+.botoncolor { 
     background: linear-gradient( 90deg, #3600f8 0%, #c7249e 100%); 
     text-decoration:none;
     font-weight: 16px;
@@ -44,22 +44,16 @@ nav ul{
     border-radius:5px;
 }
 
-.ejemplo1:hover { 
+.botoncolor:hover { 
     background: linear-gradient( 90deg, #704af8 0%, #f76dd4 100%);
     transition: all .3s;
 }
 
-.ima {
+.imagen {
     position: absolute;
     margin-left: 350px;
     margin-right: 50px;
     top: 5px;
-}
-
-.layer{
-    margin-left: 0px;
-    margin-top: 0px;
-    background-color: rgba(255, 255, 255, 0);
 }
 
 .layer1{
